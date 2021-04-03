@@ -8,6 +8,10 @@ Address:mothadaka
  #B.tech
  -RVR&JC college of engineering
  -cse
+ -2019-2022
+ -Guntur,Andhrapradesh,India
+ # intermediate
+ 
 # ssc
   -**Ravindra bharathi school**
   -**ssc**
